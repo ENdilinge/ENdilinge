@@ -1,34 +1,72 @@
-<img src="https://github.com/jacob-muema/jacob-muema/blob/main/github-header-image.png" alt="Banner" width="100%">
 
-<h1 align="center">Hi 👋, I'm Evans Ndilinge, Star</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Evans....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evans-ndilinge&label=Profile%20views&color=0e75b6&style=flat" alt="evans-ndilinge" /> </p>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/bhavik-ardeshna-a4494a1b0/"><img height="30" src="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ArdeshnaBhavik"><img height="30" src="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
 
-- 👨‍💻 All of my projects are available at [https://kavengijm-featuringmomalways.netlify.app/](https://kavengijm-featuringmomalways.netlify.app/)
 
-- 📫 How to reach me **evansndilinge02@gmail.com**
 
-- ⚡ Fun fact **I am funny🤪**
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🤵 Bhavik Ardeshna | 💻 AI/NLP Enthusiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<b><i>{Loves the harmony of Vision and Language}</i></b>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/_ndiling.e_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ndiling.e_" height="30" width="40" /></a>
+
+<p align="center">
+  <br>
+  🔬 I'm currently studying for a bachelor's degree in Université de Montréal (Mila - Quebec AI Institute)
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: ardeshnabhavik@gmail.com">ardeshnabhavik@gmail.com</a>
+</p>
+ 
+ 
+
+<br />
+
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavik-Ardeshna&theme=react&border=61dafb&hide_border=true" alt="Bhavik-Ardeshna" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Bhavik-Ardeshna&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-Ardeshna&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Bhavik-Ardeshna&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<hr>
+
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
+<p align="center">Made with ❤️ in India</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evans-ndilinge&show_icons=true&locale=en&layout=compact" alt="evans-ndilinge" /></p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evans-ndilinge&show_icons=true&locale=en" alt="evans-ndilinge" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evans-ndilinge&" alt="evans-ndilinge" /></p>
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
