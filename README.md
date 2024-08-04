@@ -2,16 +2,16 @@
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=endilinge&label=Profile%20views&color=0e75b6&style=flat" alt="endilinge" />
+  <img src="https://komarev.com/ghpvc/?username=ENdilinge&label=Profile%20views&color=0e75b6&style=flat" alt="ENdilinge" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=endilinge" alt="endilinge" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ENdilinge" alt="ENdilinge" />
   </a>
 </p>
 
-- 📫 How to reach me **evansndilinge111@gmail.com**
+- 📫 How to reach me: **evansndilinge111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,9 +61,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endilinge&show_icons=true&locale=en&layout=compact" alt="endilinge" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ENdilinge&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="ENdilinge" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=endilinge&show_icons=true&locale=en" alt="endilinge" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ENdilinge&show_icons=true&locale=en&cache_seconds=1800" alt="ENdilinge" />
 </p>
