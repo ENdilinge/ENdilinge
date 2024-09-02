@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evans Ndilinge</h1>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
+<div align="center"> <img src="https://github.com/ENdilinge/ENdilinge/blob/main/github-header-image.png"> </div>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
