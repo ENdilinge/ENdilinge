@@ -18,8 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ENdilinge&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🐍 GitHub Contribution Snake  
-![GitHub Contribution Snake](https://github.com/ENdilinge/ENdilinge/blob/output/github-contribution-grid-snake.svg)
+## 📈 My GitHub Contributions  
+🔗 **Check out my full contribution graph and activity overview on my GitHub profile:**  
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/ENdilinge)
 
 ## 💰 You can help me by Donating:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee)  
