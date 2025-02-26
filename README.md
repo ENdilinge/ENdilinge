@@ -50,14 +50,7 @@ Every pixel, every line of code, and every pull request contributes to this jour
 If my work helps you, consider supporting me! Your support keeps the passion alive! 🔥  
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/evansndilinge111@gmail.com)  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/buymeacoffee)  
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kofi)  
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/patreon)  
 
----
-
-🚀 **Let’s Connect & Build Something Epic!** 🔥  
-Feel free to explore my repos, fork projects, and contribute!  
 Happy coding! 💻✨  
 
 ---
