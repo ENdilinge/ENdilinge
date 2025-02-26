@@ -1,12 +1,11 @@
-# 👋 Hello, folks! Welcome to my GitHub!  
+# 👋 Hello, folks!   
 
 Hey there! I'm **Evans Ndilinge**, a passionate **Frontend Developer** from **Kenya** 🇰🇪, on a mission to become a **Full-Stack Developer**! 💻✨  
 I love turning ideas into reality through clean and efficient code. 🚀 Let's build something amazing together!  
 
 ---
 
-## 🛠️ Tech Arsenal:
-From crafting sleek **UI designs** to writing **clean, maintainable code**, here’s what I work with daily:  
+
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -17,8 +16,6 @@ From crafting sleek **UI designs** to writing **clean, maintainable code**, here
 
 ---
 
-## 📊 GitHub Insights:
-Because numbers **matter**, and commits tell stories! 📈  
 
 🔥 **Total GitHub Stats:**  
 ![](https://github-readme-stats.vercel.app/api?username=ENdilinge&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
